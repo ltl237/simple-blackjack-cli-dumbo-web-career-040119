@@ -24,7 +24,7 @@ end
 
 def get_user_input
   # code #get_user_input here
-	hit_or_stay = STDIN.gets.chomp()
+	hit_or_stay = gets.chomp()
 	return hit_or_stay
 end
 
